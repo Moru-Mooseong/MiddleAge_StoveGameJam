@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Baunday
+  - Unit
+  - sand
+  - snow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Unit
+  - 
+  - PostProcessing
+  - TopUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: River(Background)
+    uniqueID: 4045024803
+    locked: 0
+  - name: Grass
+    uniqueID: 4272661019
+    locked: 0
+  - name: Obstacle
+    uniqueID: 556540967
+    locked: 0
+  - name: Unit
+    uniqueID: 3639056845
+    locked: 0
+  - name: Magic
+    uniqueID: 212143767
+    locked: 0
+  - name: UILayer
+    uniqueID: 581565305
+    locked: 0

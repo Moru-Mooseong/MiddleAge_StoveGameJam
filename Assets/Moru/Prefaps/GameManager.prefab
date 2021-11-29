@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2276171739115315452
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2276171739115315443}
+  - component: {fileID: 2276171739115315442}
+  - component: {fileID: 2276171739115315453}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2276171739115315443
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2276171739115315452}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.06786, y: -1.4162368, z: -0.100684}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2276171739115315442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2276171739115315452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1c7390b253584f488023d997c317890, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gamePatten: {fileID: 0}
+  PattenDatas:
+  - PattenName: A_Patten
+    Scores: 020000000300000004000000050000000600000007000000
+    GetEXP: 0a0000000b0000000c0000000d0000000e0000000f000000
+    EXP_Cost: 6400000064000000c80000002c0100005802000020030000
+  - PattenName: B_Patten
+    Scores: 
+    GetEXP: 
+    EXP_Cost: 
+  - PattenName: C_Patten
+    Scores: 000000000000000000000000000000000000000000000000
+    GetEXP: 000000000000000000000000000000000000000000000000
+    EXP_Cost: 000000000000000000000000000000000000000000000000
+  - PattenName: D_Patten
+    Scores: 000000000000000000000000000000000000000000000000
+    GetEXP: 000000000000000000000000000000000000000000000000
+    EXP_Cost: 000000000000000000000000000000000000000000000000
+  whatPatten: 
+  PattenAdress: 0
+--- !u!114 &2276171739115315453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2276171739115315452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8b76f81b82a3b3488b93929899b4288, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assets: {fileID: 4900000, guid: 870c0b7678313b44c908df09fae044c2, type: 3}
+  PattenData: []

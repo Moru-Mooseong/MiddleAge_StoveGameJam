@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9507123c27f7a8c45a7763d3d89b0c1e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Wind_Cuttind_A_Retuch: {fileID: 2800000, guid: e85ddf1d8e459d44ba8bdc0730664d96, type: 3}
+  - _mask_test: {fileID: 2800000, guid: c364a4d32cf10a4408b179cc2c279810, type: 3}
+  - _distortTex: {fileID: 2800000, guid: bcaf3ccd398c2fe4c9cbec88770f74b0, type: 3}
+  - _noisetex: {fileID: 2800000, guid: bcaf3ccd398c2fe4c9cbec88770f74b0, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

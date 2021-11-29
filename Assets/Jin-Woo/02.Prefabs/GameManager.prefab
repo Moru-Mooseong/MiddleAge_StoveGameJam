@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
+--- !u!1 &1409717489715441199
+=======
+--- !u!1 &6666520444519255469
+>>>>>>> Stashed changes
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< Updated upstream
+  - component: {fileID: 1409717489715441197}
+  - component: {fileID: 1409717489715441196}
+=======
+  - component: {fileID: 6666520444519255471}
+  - component: {fileID: 6666520444519255470}
+>>>>>>> Stashed changes
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< Updated upstream
+--- !u!4 &1409717489715441197
+=======
+--- !u!4 &6666520444519255471
+>>>>>>> Stashed changes
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+  m_GameObject: {fileID: 1409717489715441199}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.7252879, y: 0.22285292, z: -2.1720767}
+=======
+  m_GameObject: {fileID: 6666520444519255469}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+--- !u!114 &1409717489715441196
+=======
+--- !u!114 &6666520444519255470
+>>>>>>> Stashed changes
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+  m_GameObject: {fileID: 1409717489715441199}
+=======
+  m_GameObject: {fileID: 6666520444519255469}
+>>>>>>> Stashed changes
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571997836dc043349b9ed4531e5811d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  who_player: []
+<<<<<<< Updated upstream
+  Light: {fileID: 3654383082545841064, guid: 093c078387a6c9542acd7b27d12b6540, type: 3}
+  Fire_Level:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+=======
+  Light: {fileID: 0}
+  Fire_Level: []
+>>>>>>> Stashed changes
+  slider: {fileID: 0}
+  Hp:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

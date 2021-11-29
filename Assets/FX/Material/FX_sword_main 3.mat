@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FX_sword_main 3
+  m_Shader: {fileID: 4800000, guid: b26e218262cf1a94595b44ce1e66136a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Wind_Cuttind_A_Retuch:
+        m_Texture: {fileID: 2800000, guid: 5533f585ea95370499780bbdde077bfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _distortTex:
+        m_Texture: {fileID: 2800000, guid: e21f8c151537dd04688b751a70956cf5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask_test:
+        m_Texture: {fileID: 2800000, guid: c364a4d32cf10a4408b179cc2c279810, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _noisetex:
+        m_Texture: {fileID: 2800000, guid: bcaf3ccd398c2fe4c9cbec88770f74b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex4coord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _TimeScale: 0
+    - __dirty: 0
+    - _distortamount: 0.060881633
+    m_Colors: []
+  m_BuildTextureStacks: []
